@@ -1,0 +1,13 @@
+# Build artefacts
+BUILD/
+*.o
+*.elf
+*.bin
+*.map
+
+# Tooling files
+compile_commands.json
+
+# Raw archived projects
+raws/
+ 
